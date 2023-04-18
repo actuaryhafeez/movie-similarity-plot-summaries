@@ -1,0 +1,2 @@
+# movie-similarity-plot-summaries
+Have you ever wondered how to find movies similar to your favorite ones? In this project, we will use natural language processing techniques to analyze plot summaries of movies available on IMDb and Wikipedia to find similarities between them. By clustering movies based on their plot summaries, we will be able to group them into similar categories and help users discover new movies that they might enjoy. Whether you're a fan of action, horror, or sci-fi movies, this project will help you find your next favorite film.
